@@ -8,7 +8,7 @@ namespace MovieStoreApp.Exceptions
 {
     internal class MovieNotFoundException:Exception
     {
-        public MovieNotFoundException(string message):base(message)
+        public Movie(string message):base(message)
         {
                        Console.WriteLine("Throws exception");
 
