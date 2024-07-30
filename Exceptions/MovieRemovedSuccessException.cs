@@ -8,7 +8,7 @@ namespace MovieStoreApp.Exceptions
 {
     internal class MovieRemovedSuccessException:Exception
     {
-        public MovieRemovedSuccessException(string message):base(message)
+        public SuccessException(string message):base(message)
         {
             
         }
