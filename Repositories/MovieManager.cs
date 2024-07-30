@@ -18,7 +18,7 @@ namespace MovieStoreApp.Repositories
             movies = DataSerializer.DeserializeMovies();
         }
 
-        public static void AddNewMovies(int id,string name,int year,string genre)
+        public static void AddNewMovies(int Id,string Name,int Year,string genre)
         {
             if (movies.Count < 5)
             {
