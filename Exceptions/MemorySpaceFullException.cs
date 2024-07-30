@@ -10,7 +10,7 @@ namespace MovieStoreApp.Exceptions
     {
         public MemorySpaceFullException(string message):base(message)
         { 
-        
+           Console.WriteLine("Throws exception");
         }
     }
 }

@@ -10,7 +10,8 @@ namespace MovieStoreApp.Exceptions
     {
         public MovieListEmptyException(string message):base(message)
         {
-            
+                       Console.WriteLine("Throws exception");
+
         }
     }
 }
