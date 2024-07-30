@@ -10,7 +10,9 @@ namespace MovieStoreApp.Exceptions
     {
         public MemorySpaceFullException(string message):base(message)
         { 
-        
+        Console.writeLine("Exceptions")
+        Console.writeLine("Exceptions")
+        Console.writeLine("Exceptions")
         }
     }
 }
