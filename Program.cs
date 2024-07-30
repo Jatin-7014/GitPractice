@@ -13,6 +13,8 @@ namespace MovieStoreApp
         static void Main(string[] args)
         {
             MovieStore.DisplayMenu();
+                       Console.WriteLine("Throws exception");
+
         }
     }
 }

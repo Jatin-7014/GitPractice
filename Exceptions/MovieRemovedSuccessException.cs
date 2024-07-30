@@ -10,7 +10,8 @@ namespace MovieStoreApp.Exceptions
     {
         public MovieRemovedSuccessException(string message):base(message)
         {
-            
+                       Console.WriteLine("Throws exception");
+
         }
     }
 }

@@ -10,7 +10,8 @@ namespace MovieStoreApp.Exceptions
     {
         public MovieNotFoundException(string message):base(message)
         {
-            
+                       Console.WriteLine("Throws exception");
+
         }
     }
 }

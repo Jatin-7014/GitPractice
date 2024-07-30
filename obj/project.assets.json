@@ -179,19 +179,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jatin.kumar\\.nuget\\packages\\": {}
+    "C:\\Users\\shweta.kale\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\MovieStoreApp\\MovieStoreApp.csproj",
+      "projectUniqueName": "C:\\Users\\shweta.kale\\OneDrive - Aurionpro Solutions Limited\\Desktop\\Git clone\\GitPractice\\MovieStoreApp.csproj",
       "projectName": "MovieStoreApp",
-      "projectPath": "D:\\C#\\MovieStoreApp\\MovieStoreApp.csproj",
-      "packagesPath": "C:\\Users\\jatin.kumar\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\MovieStoreApp\\obj\\",
+      "projectPath": "C:\\Users\\shweta.kale\\OneDrive - Aurionpro Solutions Limited\\Desktop\\Git clone\\GitPractice\\MovieStoreApp.csproj",
+      "packagesPath": "C:\\Users\\shweta.kale\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shweta.kale\\OneDrive - Aurionpro Solutions Limited\\Desktop\\Git clone\\GitPractice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jatin.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\shweta.kale\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
